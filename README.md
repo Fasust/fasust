@@ -2,6 +2,7 @@
 [<img src="https://raw.githubusercontent.com/Fasust/faust-sebastian-website/master/assets/logos/fist.ico" height="13" /> Website](https://www.faust-sebastian.com/) - 
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaw3zH3s8k32f-dmj5-jLE-qRpqbdUbc-gS-UMtv-_1A&s" height="13" /> LinkedIn](https://www.linkedin.com/in/sebastian-faust/) - 
 [<img src="https://www.android-user.de/wp-content/uploads/2017/05/neues-play-store-logo.png" height="13" /> PlayStore](https://play.google.com/store/apps/developer?id=Sebastian+Faust) - 
+[<img src="https://cdn.worldvectorlogo.com/logos/google-scholar.svg" height="13" /> Google Scholar](https://scholar.google.com/citations?user=se_7IOgAAAAJ&hl) -
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png" height="13" /> Instagram](https://www.instagram.com/feustchen/)
 
 
