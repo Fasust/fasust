@@ -12,8 +12,8 @@
 
 ### GitHub Stats
 <a href="https://github.com/fasust">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=fasust&count_private=true&show_icons=true&theme=default&include_all_commits=true" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=fasust&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true" />
 </a>
 <a href="https://github.com/fasust">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fasust&theme=default&layout=compact&langs_count=10&hide=css,html" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fasust&theme=vue-dark&layout=compact&langs_count=10&hide=css,html" />
 </a>
