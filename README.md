@@ -5,7 +5,6 @@
 [<img src="https://cdn.worldvectorlogo.com/logos/google-scholar.svg" height="13" /> Google Scholar](https://scholar.google.com/citations?user=se_7IOgAAAAJ&hl) -
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png" height="13" /> Instagram](https://www.instagram.com/feustchen/)
 
-- 🔭 I’m currently working on the [Fastic App](https://apps.apple.com/app/id1459260306?mt=8) & Back-End
 - 🗺 I’m currently living in Berlin, Germany
 - 🌱 I’m currently learning IOS Development
 - 💬 Ask me about Flutter & BLoC-based Architecture 
